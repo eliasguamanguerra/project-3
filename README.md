@@ -1,6 +1,6 @@
 # Project 3
 
-Web Programming with Python and JavaScript
+Web Programming with Python and Django
 
 Author : Elias Guaman / mail : cruz.guaman@yachaytech.edu.ec
 
