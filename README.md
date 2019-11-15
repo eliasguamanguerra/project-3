@@ -6,7 +6,7 @@ Author : Elias Guaman / mail : cruz.guaman@yachaytech.edu.ec
 
 Tutor : Rigoberto Fonseca
 
-watch video: 
+watch video: https://www.youtube.com/watch?v=goW81T52qPo
 
 This project is a fully funcional food ordering system made in django.
 Beside python I did use bootstrap 4 for better control of all DOMs elements.
